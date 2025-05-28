@@ -9,3 +9,4 @@ age,gender,education_level,years_of_experience,field_of_work,resume_quality,numb
 45,Female,Master,15.0,Finance,High,5,60.0,40.0,2,15,130000,High,1,Low,Networking,1
 29,Male,Bachelor,4.0,Marketing,Medium,22,10.5,4.3,0,80,50000,Medium,0,Medium,Social Media,0
 33,Non-binary,PhD,7.0,Healthcare,High,12,35.0,20.0,3,40,100000,High,1,High,Direct Applications,1
+celebrate success
